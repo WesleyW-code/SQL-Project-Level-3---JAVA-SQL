@@ -13,7 +13,7 @@ public class Architect_Class {
 
     //Creating a Constructor Method:
 
-    public Architect_Class (String arch_name,BigInteger arch_contact_nr,String arch_email,int arch_str_num,String arch_str_name){
+    public Architect_Class (String arch_name, BigInteger arch_contact_nr,String arch_email,int arch_str_num,String arch_str_name){
         this.arch_name = arch_name;
         this.arch_contact_nr = arch_contact_nr;
         this.arch_email = arch_email;
